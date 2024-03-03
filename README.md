@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jay-and-main
+<h1>Hey there! I am Jayant</h1>
+
 - 👀 I’m interested in python, js, gamedev
 - 🌱 I’m currently learning computer science engineering at PES university
 
